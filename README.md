@@ -21,6 +21,8 @@ Press "=" to get the result.
 
 Use "⌫" to clear the input.
 
+Press "h or H" to see the history.
+
 🛠️ Technologies Used
 
 HTML – Structure
