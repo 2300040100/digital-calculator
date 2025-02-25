@@ -46,6 +46,7 @@ document.addEventListener("keydown", (event) => {
     } else if (key === "Escape") {
         clearDisplay();
     } else if (key === "h" || key === "H") { 
+        console.log("H key is pressed");
         let history = document.getElementById("history");
         if (history) {
             history.style.display = (history.style.display === "none") ? "block" : "none";
