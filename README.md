@@ -33,4 +33,4 @@ JavaScript – Logic and Functionality
 
 📌 Live Demo
 
-Click Here to Try (https://github.com/2300040100/digital-calculator.git)
+Click Here to Try (https://2300040100.github.io/digital-calculator/)
