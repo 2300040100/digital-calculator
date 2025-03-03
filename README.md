@@ -12,4 +12,4 @@ Use "⌫" to clear the input.
 
 Press "h or H" to see the history.
 
-Click Here to Try (https://2300040100.github.io/digital-calculator/)
+Live Demo: https://2300040100.github.io/digital-calculator/
